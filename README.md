@@ -24,3 +24,4 @@ Funcionalidad:
 - Al finalizar el juego, el personaje no podrá moverse y se debe mostrar en los textos de los bloques los números ordenados de menor a mayor, pintando de color verde, los números que el jugador tocó correctamente.
 
 
+![image](https://user-images.githubusercontent.com/83043304/119550229-8cba3d80-bd6e-11eb-9a79-bd9b6e73bb0b.png)
