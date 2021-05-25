@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\Users\Roni_PC\Documents\Visual Studio 2019\Proyectos\Programacion 1 TP1\TP1\TP1\main.cpp(21,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  juego.cpp
+C:\Users\Roni_PC\Documents\Visual Studio 2019\Proyectos\Programacion 1 TP1\TP1\TP1\juego.cpp(10,30): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\Roni_PC\Documents\Visual Studio 2019\Proyectos\Programacion 1 TP1\TP1\TP1\juego.cpp(64,34): warning C4129: 'c': unrecognized character escape sequence
+C:\Users\Roni_PC\Documents\Visual Studio 2019\Proyectos\Programacion 1 TP1\TP1\TP1\juego.cpp(154,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  personaje.cpp
+  bloque.cpp
+C:\Users\Roni_PC\Documents\Visual Studio 2019\Proyectos\Programacion 1 TP1\TP1\TP1\bloque.cpp(26,31): warning C4305: 'argument': truncation from 'double' to 'float'
+  Generating Code...
+  TP1.vcxproj -> C:\Users\Roni_PC\Documents\Visual Studio 2019\Proyectos\Programacion 1 TP1\TP1\Debug\TP1.exe
